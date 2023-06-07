@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+button {
+    font-size: 25px;
+    font-family: Space Grotesk;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Space Grotesk;
+}

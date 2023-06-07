@@ -1,0 +1,10 @@
+button {
+    font-size: 30px;
+    font-family: Space Grotesk;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+body {
+    text-align: center;
+}
